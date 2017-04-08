@@ -31,4 +31,4 @@ npm start
 
 ## License
 
-[MIT License](LICENSE.md)
+electron-jqueryui-quick-start is published under the MIT license. See LICENSE for details.
