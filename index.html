@@ -7,17 +7,35 @@
 	<style>
 	body{
 		margin: 20px;
+		margin-left: 23px;
+		margin-top: 127px;
+		background-image: url("./page2.png");
+		background-repeat: no-repeat;		
+		overflow: hidden;
 	}
 	
+	#rezDiv{
+		width: 420px; 
+		height: 851px;
+		overflow-y: scroll; 
+		overflow-x:hidden;
+	}
 	
 	#rezText{
-		outline: none;
+		border-color: #bbbbbb;
+		border-style: solid;
+		border-width: 1px;
 		font-family: Calibri;
 		font-size: 14px;
-		width: 380px; 
+		width: 362px; 
 		height: 4000px;
 		padding: 10px;
+		//box-shadow: 1px 1px 2px #333
+		
 	}
+	
+	
+	
 	
 	
 	.demoHeaders {
@@ -60,7 +78,10 @@
 	</style>
 </head>
 <body>
-<textarea id="rezText" >
+<br>
+<div id="rezDiv">
+<br>
+<div id="rezText" >
 
   ==================================================
   
@@ -294,8 +315,8 @@
   
   
 
-</textarea>
-
+</div>
+</div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h1>Electron application with jQuery UI</h1>
