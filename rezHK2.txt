@@ -1,0 +1,345 @@
+<item><hk>cfps</hk><desc>Contact For Payment Shipping</desc><tx>Please contact for payment of return shipping when repaired/ready.</tx></item>
+
+<item><hk>tpt</hk><desc>To Power The</desc><tx>To power the</tx></item>
+
+<item><hk>ol5a6</hk><desc>outputs labeled 5 and 6</desc><tx>outputs labeled 5 and 6</tx></item>
+
+<item><hk>ol5o6</hk><desc>output labeled 5 or 6</desc><tx>output labeled 5 or 6</tx></item>
+
+<item><hk>r1o</hk><desc>RMA 1 of </desc><tx>RMA 1 of </tx></item>
+
+<item><hk>r2o</hk><desc>RMA 2 of </desc><tx>RMA 2 of</tx></item>
+
+<item><hk>r3o</hk><desc>RMA 3 of </desc><tx>RMA 3 of</tx></item>
+
+<item><hk>5o6</hk><desc>output 5 or 6</desc><tx>output 5 or 6</tx></item>
+
+<item><hk>5a6</hk><desc>outputs 5 and 6</desc><tx>outputs 5 and 6</tx></item>
+
+<item><hk>at14</hk><desc></desc><tx>any two of outputs 1-4</tx></item>
+
+<item><hk>cwc</hk><desc></desc><tx>Please contact when complete for: </tx></item>
+
+<item><hk>acd</hk><desc></desc><tx>actual current draw</tx></item>
+
+<item><hk>hco</hk><desc></desc><tx>high current capacity outputs</tx></item>
+
+<item><hk>pvsia</hk><desc></desc><tx>Ground Control Pro presets (typically) control "everything" (the idea being that during a performance, you can press a single button and... done: you've got the complete sound and settings needed at that moment (no need to also press additional buttons).{enter}{enter}As for the instant access buttons... they can be assigned as desired but there are only eight of them. So, once you assign the eight functions... that's what they'll do. </tx></item>
+
+<item><hk>pica</hk><desc></desc><tx>What is the specific pedal make/model, perhaps I can advise...?</tx></item>
+
+<item><hk>rmaf</hk><desc></desc><tx>I'm very sorry there is an issue with your Pedal Power supply. <br><br>If you'd like to arrange for its inspection/repair, please send an email to: info@voodoolab.com.<br><br>We are glad to help.<br><br><br>Thank you{!}</tx></item>
+
+<item><hk>zstw</hk><desc></desc><tx>I'm sorry you are having trouble with your setup.</tx></item>
+
+<item><hk>zppyl</hk><desc></desc><tx><a href="http://www.voodoolab.com/shop/index.php?cPath=22_24_32">Voltage Doubler Cable (standard polarity, 2.1mm), part{#} PPY</a></tx></item>
+
+<item><hk>zurl</hk><desc></desc><tx><a href=""></a></tx></item>
+
+<item><hk>zppapl</hk><desc></desc><tx><a href="http://www.voodoolab.com/shop/index.php?cPath=22_24_33">Current Doubler Adapter, part{#} PPAP</a></tx></item>
+
+<item><hk>zppayl</hk><desc></desc><tx><a href="http://www.voodoolab.com/shop/index.php?cPath=22_24_33">Voltage Doubler Adapter, part{#} PPAY</a> </tx></item>
+
+<item><hk>zppbarl</hk><desc></desc><tx><a href="http://www.voodoolab.com/shop/index.php?cPath=22_24_28">2.1mm Standard Polarity Barrel Cable, part{#} PPBAR, PPBAR-R and PPBAR-RS</a> </tx></item>
+
+<item><hk>zpprevl</hk><desc></desc><tx><a href="http://www.voodoolab.com/shop/index.php?cPath=22_24_29&osCsid=8v4rn630f5mjo88pm8gn2i7sa2">2.1mm Reverse Polarity Barrel Cable, part{#} PPREV, PPREV-R</a> </tx></item>
+
+<item><hk>zppl6l</hk><desc></desc><tx><a href="http://www.voodoolab.com/shop/index.php?cPath=22_24_30">2.1mm/2.5mm Reverse Polarity Barrel Cable, part{#} PPL6, PPL6-R</a> </tx></item>
+
+<item><hk>zppavl</hk><desc></desc><tx><a href="http://www.voodoolab.com/shop/index.php?cPath=22_24_33">Output Splitter Adapter, part{#} PPAV</a> </tx></item>
+
+<item><hk>zwppl6</hk><desc></desc><tx>with the supplied red/black ended cable (it's 2.1mm/2.5mm reverse polarity and the red end fits the effect pedal).</tx></item>
+
+<item><hk>zwppbar</hk><desc></desc><tx>with one of the all black (standard polarity) cables supplied.</tx></item>
+
+<item><hk>zua9</hk><desc></desc><tx>use any 9VDC output</tx></item>
+
+<item><hk>zuhc</hk><desc></desc><tx>use a high current capacity output</tx></item>
+
+<item><hk>zu9400</hk><desc></desc><tx>use a 9VDC high current capacity (400mA) output</tx></item>
+
+<item><hk>zu12400</hk><desc></desc><tx>use a 12VDC high current capacity (400mA) output</tx></item>
+
+<item><hk>ztpt</hk><desc></desc><tx>To power the</tx></item>
+
+<item><hk>znuacc</hk><desc></desc><tx>Unfortunately, no.{enter}{enter}Your *** requires AC power and cannot be powered from the Pedal Power DC outputs.{enter}{enter}However, you can power it from the AC courtesy outlet with its <a href="https://www.google.com/search?client=firefox-a&channel=sb&biw=1265&rls=org.mozilla%3Aen-US%3Aofficial&tbm=isch&sa=1&ei=4qnXWsKaE6GW0gLfrIuQDA&q=wall-wart+wall-wart+power+supply&oq=wall-wart+wall-wart+power+supply&gs_l=psy-ab.12...77685.84729.0.87347.6.6.0.0.0.0.83.440.6.6.0....0...1c.1.64.psy-ab..0.0.0....0.oaTi14HfK7k">adapter/wall-wart</a>.{enter}{enter}Cheers{!}</tx></item>
+
+<item><hk>zww</hk><desc></desc><tx><a href="https://www.google.com/search?client=firefox-a&channel=sb&biw=1265&rls=org.mozilla%3Aen-US%3Aofficial&tbm=isch&sa=1&ei=4qnXWsKaE6GW0gLfrIuQDA&q=wall-wart+wall-wart+power+supply&oq=wall-wart+wall-wart+power+supply&gs_l=psy-ab.12...77685.84729.0.87347.6.6.0.0.0.0.83.440.6.6.0....0...1c.1.64.psy-ab..0.0.0....0.oaTi14HfK7k">adapter/wall-wart</a><br></tx></item>
+
+<item><hk>zppl</hk><desc></desc><tx><a href="http://voodoolab.com/pedalpower_2.htm">Pedal Power 2 Plus</a></tx></item>
+
+<item><hk>zdsn</hk><desc></desc><tx>DIP switch set to NORMAL (9V),</tx></item>
+
+<item><hk>zacc</hk><desc></desc><tx>AC courtesy outlet</tx></item>
+
+<item><hk>obp</hk><desc></desc><tx>Older (pre - 1996) Boss pedals used a different power supply (ACA type) from newer Boss pedals (PSA type). Usually, when an older ACA Boss pedal is powered at 9VDC (from the external power jack) its LED appears dim. Thus, these older ACA Boss pedals should instead be powered with 12VDC (from the external power jack), as follows: Use any of Pedal Power 2 Plus outputs 1-4, DIP switch set AWAY from normal with one of the all black (standard polarity) cables supplied.<br></tx></item>
+
+<item><hk>ngpp</hk><desc></desc><tx>Our supplies have been designed to optimize performance, while minimizing weight and expense.<br><br>Linear power supplies (such as Pedal Power 2 Plus, MONDO, ISO-5, etc) hold the gold standard for powering audio equipment. However, as they increase in power (current rating) they tend to get heavy (transformer weight mostly) and more pricey.<br><br>As the vast majority of 9V battery type stompbox effects draw less than 100mA, making all outputs (of a linear power supply) high current capacity would unnecessarily increase its weight and expense.<br><br>That said, there are other types of power supplies (besides linear) which have the advantage of being lighter (and universal/usable in USA 120VAC or overseas 220-240VAC) but they have not met our performance standards... until now.<br><br>After many years of our experimenting we've developed a hybrid DC transformer design that meets our demands. Our newest supply: Pedal Power X4 introduces this new design into the Pedal Power family... and certainly more are to follow ;)<br><br>Hope this helps.<br><br><br>Cheers{!}</tx></item>
+
+<item><hk>tprp</hk><desc></desc><tx>To power the remaining pedals, each: Use any 9VDC output (ie. DIP switch set to NORMAL), with one of the all black (standard polarity) cables supplied. </tx></item>
+
+<item><hk>zp44l</hk><desc></desc><tx><a href="http://voodoolab.com/pedalpower_4x4.htm">Pedal Power 4 x 4</a></tx></item>
+
+<item><hk>bdb2</hk><desc></desc><tx>Just to be certain... do you need the additional brackets for mounting a 2nd power supply beneath your Dingbat (or was the bracket for the 1st supply missing)?<br><br>And please, simply specify the name/address to use and I'll send you the brackets you need (at no charge).<br></tx></item>
+
+<item><hk>mres</hk><desc></desc><tx>Completing the repair and having it returned to you by the deadline specified should be possible but may require you to pay for expedited shipping (FedEx 2nd-Day, Overnight, etc). Would you like me to contact you when the repair is complete to discuss such options?</tx></item>
+
+<item><hk>p8ns2</hk><desc></desc><tx>There's no definite right way but for starters you could try this setup:<br><br><br>Guitar ==> IN NS2<br><br>NS2 SND ==> IN PX-8 Plus<br><br>Non-Delay/Reverb pedals in PX-8 Plus loops 1-6<br><br>PX-8 Plus INSERT SND ==> NS2 RTN<br><br>NS2 OUT ==> PX-8 Plus INSERT RTN<br><br>Delay/Reverb pedals in PX-8 Plus loops 7-8<br><br>PX-8 Plus OUT ==> Amp<br><br>Hope this helps.<br><br><br>Thanks for the inquiry and please let me know if you would like additional assistance.</tx></item>
+
+<item><hk>zppm</hk><desc></desc><tx>Pedal Power MONDO</tx></item>
+
+<item><hk>npf</hk><desc>No Problems Found</desc><tx>Our tech has been testing your ***DEVICE*** but thus far has been unable to reproduce any malfunction.</tx></item>
+
+<item><hk>2kp</hk><desc>2 knob pedals</desc><tx>320-1500, 926-3357  Large knob & Spacer (2 knob pedals)<br></tx></item>
+
+<item><hk>15vr</hk><desc>15 Volt Radial</desc><tx>To power your 15VDC Radial pedal (at 18VDC) use two 9VDC high current capacity (400mA or 250mA) outputs, a <a href="http://www.voodoolab.com/shop/index.php?cPath=22_24_33">Voltage Doubler Adapter, part# PPAY</a> and with a <a href="http://www.voodoolab.com/shop/index.php?cPath=22_24_29&osCsid=8v4rn630f5mjo88pm8gn2i7sa2">2.1mm  Reverse Polarity Barrel Cable, part# PPREV, PPREV-R</a>.<br></tx></item>
+
+<item><hk>x4eke</hk><desc>X4 Expander Kit Explained</desc><tx>When purchased as the X4 Expander Kit, no power source is included. As such, X4 Expander Kit is typically being used to simply <i>expand</i> the total number of isolated outputs of some other power supply (Pedal Power 4 x 4, Pedal Power Mondo, etc).</tx></item>
+
+<item><hk>zpi</hk><desc>Pedal Power ISO-5</desc><tx>Pedal Power ISO-5</tx></item>
+
+<item><hk>zpp</hk><desc>Pedal Power 2 Plus</desc><tx>Pedal Power 2 Plus</tx></item>
+
+<item><hk>zpil</hk><desc>Pedal Power ISO-5</desc><tx><a href="http://voodoolab.com/pedalpower_iso-5.htm">Pedal Power ISO-5</a></tx></item>
+
+<item><hk>ppgcpcx</hk><desc>Phantom Power GCP (from) CX</desc><tx>Ground Control Pro (MIDI OUT jack) can be phantom powered from Control Switcher (MIDI IN jack).<br><br>In order to pass phantom power you must use a MIDI cable that has all 5 pins wired (commonly marked 5-pin active).<br>.<br>To power both Control Switcher and phantom power to Ground Control Pro, power Control Switcher from an adapter with 9V at 600mA or greater (such as the supplied Ground Control Pro adapter).</tx></item>
+
+<item><hk>piwr</hk><desc>Please include with return: </desc><tx>Please include/COMP with return: </tx></item>
+
+<item><hk>asibs</hk><desc>Amp Selector Input B Stuck</desc><tx>In case it helps... Once in awhile the INPUT B jack (it's a switching jack) can become "frozen" and cause the signal to INPUT A to only feed OUTPUTS 1 and 2 (but not OUTPUTS 3 and 4). When this happens, some repeated plugging/un-plugging into the INPUT B jack, will often un-freeze the jack/switch and resolve the trouble.<br><br>Any better?</tx></item>
+
+<item><hk>zppml</hk><desc>Pedal Power MONDO</desc><tx><a href="http://voodoolab.com/pedalpower_mondo.htm">Pedal Power MONDO</a></tx></item>
+
+<item><hk>distcan</hk><desc>Canadian Distributor</desc><tx>Canadian Distributor<br>SF Marketing<br>325 Boul Bouchard<br>Dorval, Quebec H9S 1A9, Canada<br>514 780 2070<br>info@sfmmi.com</tx></item>
+
+<item><hk>zx4l</hk><desc>Pedal Power X4 Link</desc><tx><a href="http://www.voodoolab.com/pedalpower_x4.htm">Pedal Power X4</a><br></tx></item>
+
+<item><hk>x4l</hk><desc>Pedal Power X4 Link</desc><tx><a href="http://www.voodoolab.com/pedalpower_x4.htm">Pedal Power X4</a></tx></item>
+
+<item><hk>cnafr</hk><desc>Correct Name Address For Return?</desc><tx>Is this the correct name/address:<br><br>***ADDRESS***<br><br>for the returning supply?<br></tx></item>
+
+<item><hk>oooo</hk><desc>four o's</desc><tx><h1 style="color: red">pass it to redman...</h1></tx></item>
+
+<item><hk>uuuu</hk><desc>4 x u</desc><tx><h1 style="color: green">he knows how to roll a blunt{!}</h1> </tx></item>
+
+<item><hk>bcp</hk><desc>3 uz</desc><tx>Here's the link: <a href="http://www.voodoolab.com/shop/index.php?cPath=22_24_33">Power Cables/Adapters</a><br></tx></item>
+
+<item><hk>uuuuu</hk><desc>even longer</desc><tx><span style="background-color: grey">FOO{!}</span></tx></item>
+
+<item><hk>sgpa</hk><desc>Setup Guitar Pedal Amp</desc><tx>Setup: <b>guitar => stompbox => amp</b> (<i>no additional devices connected</i>)</tx></item>
+
+<item><hk>nbw</hk><desc>No But Why?</desc><tx>No, but... Why? What specifically are you needing to power?<br></tx></item>
+
+<item><hk>cfprs</hk><desc>Contact For Payment Return Shipping</desc><tx>Please contact for payment of return shipping upon completion.</tx></item>
+
+<item><hk>pcvl</hk><desc>Please Contact Voodoo Lab</desc><tx>I'm sorry to know it.<br><br>Please, call us or send us an email ( info@voodoolab.com ) we are glad to arrange for its inspection and repair.<br><br>Cheers{!}</tx></item>
+
+<item><hk>iecukrc</hk><desc>IEC Power Cord (220-240VAC UK)</desc><tx><a href="https://www.amazon.com/Tripp-Lite-Standard-IEC-320-C13-P056-006/dp/B001I7Y9W4/ref=pd_lpo_sbs_147_t_0?_encoding=UTF8&psc=1&refRID=VR99WP1S2TAGVJBGX1DX">IEC Power Cord (220-240VAC UK)</a></tx></item>
+
+<item><hk>zzl</hk><desc>link</desc><tx><a href="">?</a></tx></item>
+
+<item><hk>zzb</hk><desc>bold</a></desc><tx><b>?</b></tx></item>
+
+<item><hk>zzi</hk><desc>italic</a></desc><tx><i>?</i></tx></item>
+
+<item><hk>zzn</hk><desc>newline</a></desc><tx><br></tx></item>
+
+
+<item><hk>jjj</hk><desc>jjj</desc><tx><b>foo</b><br><br>be <br><br><i>stankin</i></tx></item>
+
+<item><hk>slt</hk><desc>Sorry Long Turnaround</desc><tx>And, sorry the turnaround time was a bit longer than anticipated.<br><br></tx></item>
+
+<item><hk>1at</hk><desc>one-at-a-time</desc><tx>one-at-a-time</tx></item>
+
+<item><hk>ttapi</hk><desc>try testing adding pedals individually </desc><tx>Try adding pedals one-at-a-time with beginning with only your ***DEVICE*** and test for the popping with the addition of each new pedal.<br><br>Setup: <br><br><b>guitar => ***DEVICE*** => amp</b> (<i>no additional devices connected</i>)<br><br><b>guitar => ***DEVICE*** => fx pedal => amp</b> (<i>no additional devices connected</i>)<br><br><b>guitar => ***DEVICE*** => fx pedal => fx pedal => amp</b> (<i>no additional devices connected</i>)<br><br>etc...<br><br>When does the popping return (after the addition of which pedal)?<br><br></tx></item>
+
+<item><hk>cxcd</hk><desc>cxc dealer</desc><tx>CXC is the part code (that we use) for the custom Control Switcher cable.<br><br>We custom build these cables, retail price: $40 (dealer price: $24).<br><br>Also, as we need to custom build these cables (and may need specific details on the amp it is to be used with), it may be easier/desirable to simply have the customer contact me directly to order the cable... that's fine too{!}<br><br></tx></item>
+
+<item><hk>dthc</hk><desc>Due To High Current</desc><tx>Although it uses 9VDC power... due to its requiring high current (about ****mA), it cannot be powered from the Pedal Power 2 Plus DC outputs.<br><br>However, you can power it from the AC courtesy outlet with its <a href="https://www.google.com/search?q=wall-wart&client=firefox-a&hs=nn9&rls=org.mozilla:en-US:official&channel=sb&source=lnms&tbm=isch&sa=X&ei=KsnjU7qwJIvjoAS_6YGwDQ&ved=0CAkQ_AUoAg&biw=972&bih=582#channel=sb&q=wall-wart+power+supply&rls=org.mozilla:en-US:official&tbm=isch"> adapter/wall-wart</a>.<br></tx></item>
+
+<item><hk>gcpoe</hk><desc>GCP Online Editor</desc><tx><a href="https://gcproeditor.com/">www.gcproeditor.com</a></tx></item>
+
+<item><hk>hlt</hk><desc>hook and loop tape</desc><tx>Hook & Loop Tape for Dingbat Pedalboards - 12' roll, price: $9.99</tx></item>
+
+<item><hk>gcpfr</hk><desc>Ground Control Pro Factory Reset</desc><tx>Here are the steps to factory reset your Ground Control Pro:<br><br><br><b>1.</b> Enter Ground Control Pro SETUP mode (by pressing Ground Control Pro top left and right SETUP buttons simultaneously).<br><br> &nbsp;&nbsp;&nbsp;The display will read: SELECT 2-8<br><br><b>2.</b> Select the UTILITY category (by pressing the small {#}7 button).<br><br><b>3.</b> Press BANK down button repeatedly until you see the item: INIT MEM Y/N<br><br><b>4.</b> Press the YES/ button<br><br> &nbsp;&nbsp;&nbsp;The display will read: ***WARNING***, YOU SURE Y/N<br><br><b>5.</b> Again, press the YES/ button<br><br> &nbsp;&nbsp;&nbsp;The display will read: WORKING. DONE.<br><br><br>And, that's it... factory reset completed{!}</tx></item>
+
+<item><hk>iec1f</hk><desc>iec1f</desc><tx><a href="https://www.amazon.com/Hosa-PWC-141R-Right-Angle-NEMA-5-15P/dp/B004NCRDYW/ref=sr_1_6?s=electronics&ie=UTF8&qid=1535744878&sr=1-6&keywords=iec+power+cord+1ft">IEC Power Cord, length: 1ft</a></tx></item>
+
+<item><hk>iecij</hk><desc>IEC Inlet Jack (for Pedal Power)</desc><tx>701-0008, AC inlet (IEC Jack) for Pedal Power</tx></item>
+
+<item><hk>tpi</hk><desc>to power it</desc><tx>to power it</tx></item>
+
+<item><hk>u45</hk><desc>use outputs 4 and 5 (or 6 and 7)</desc><tx>use a <a href="http://www.voodoolab.com/shop/index.php?cPath=22_24_33">Current Doubler Adapter, part{#} PPAP</a> in outputs 4 and 5 (or 6 and 7), DIP switches set normal (9VDC) <br><br></tx></item>
+
+<item><hk>canadad</hk><desc>canada distributor</desc><tx><b>SF Marketing</b><br>325 Boul Bouchard<br>Dorval, Quebec H9S 1A9, Canada<br>514 780 2070<br><a href="mailto:info@sfmmi.com">info@sfmmi.com</a><br></tx></item>
+
+<item><hk>ukd</hk><desc>UK distributor</desc><tx><b>Westside Distribution</b> (Distributor)<br>0844 326 2000<br><a href="https://www.westsidedistribution.com">www.westsidedistribution.com</a><br><a href="http://www.quickfind.me/voodoolab">United Kingdom Dealer Map</a></tx></item>
+
+<item><hk>swgbr</hk><desc>Sweetwater Gig Bag Replacement</desc><tx>Eh...  sorry to know it. And, assuming it's okay, we'll simply send you a replacement gig bag, size: ???.<br><br>Is there any particular RA{#} number to reference in the invoice for the replacement?<br><br>Sweetwater Sound<br><b>ATTN: RA{#} ??????</b><br>5501 US Hwy 30 W<br>Fort Wayne, IN 46818<br><br><br>Please let me know what you can and I will give you additional assistance.</tx></item>
+
+<item><hk>ibnc</hk><desc>included but not consecutive</desc><tx>Pedals powered from the <a href="http://www.voodoolab.com/shop/index.php?cPath=22_24_33">Output Splitter Adapter, part{#} PPAV</a> <b>do not</b> need to be placed consecutively in the signal path but <b>do</b> need to be both included somewhere in the signal path.<br><br>Why? Because... when wired together as such (with the 1/4" instrument cable, etc) a common (audio) ground is established and this is required for both leads of the output splitter adapter to work properly.<br><br>This design is intentional, as it will not create ground loop noise (<i>unlike</i> traditional daisy-chaining).<br></tx></item>
+
+<item><hk>hxec</hk><desc>HX Effects Cable</desc><tx>Build notes: Current doubler but with a 2.5mm output barrel, standard polarity, not ground lifted (part{#} PPP6)</tx></item>
+
+<item><hk>gcpv2b</hk><desc>GCP v2 beta </desc><tx>There is a Ground Control Pro, v2 beta chip, that has an "all instant access button" mode (it's actually 24 instant access buttons, configured as two banks of 12 each).<br><br>Used together with another Ground Control Pro set for "normal" operation, is sort of like having a GCP with 10 preset buttons and 24 instant access buttons.<br><br>If you've got two Ground Control Pro(s) and would like to try out the v2 beta chip, I can send you the v2 chips (at no charge).<br><br></tx></item>
+
+<item><hk>px8pwmd</hk><desc>PX-8 Plus With MIDI Device</desc><tx>Since each PX-8 Plus preset sends a MIDI Program Change message (on MIDI channel 1) as follows:<br><br><u>PX-8 Plus Preset       /        Program Change {#}</u><br>Bank1 A, B, C, D       /          1,   2,    3,   4<br>Bank2 A, B, C, D       /          5,   6,    7,   8<br>Bank3 A, B, C, D       /          9, 10,  11, 12<br>...                                           ...<br>Bank9 A, B, C, D       /        33, 34,  35, 36<br><br><br>when creating PX-8 Plus presets that also controls a MIDI device(s), in addition to configuring and saving  the on/off state for the 8 (send/return) loops as desired...<br><br>you will also need to edit and save the patch <i>(on the Strymon itself)</i> corresponding with the MIDI program change {#} of the appropriate PX-8 Plus preset.<br><br><br>Hope this helps.<br><br>Thanks for the inquiry and please let me know if you would like additional assistance.</tx></item>
+
+<item><hk>dbmpxbo</hk><desc>DBMPX Board Only</desc><tx>In order to mount/attach PX-8 to the front, you would <i>need</i>  <b>Dingbat PX</b> (it's the same as Dingbat Medium, except... it it has an open front for attachment of PX-8 Plus).<br><br>Normally, Dingbat PX is only available as a package deal (ie. purchased together with a PX-8 Plus).<br><br>If you already have PX-8 Plus and wish to purchase separately, just the attachable pedalboard, please inquire with any dealer you may prefer about <i>special ordering</i>: <b>part{#} DBMPX</b>.<br><br>You should be able to special order Dingbat PX from which ever dealer you may prefer.<br><br>And certainly, if there is confusion, the dealer can contact me directly.<br><br>Hope this helps.<br><br><br>Thank you and please let me know if you would like additional assistance.<br></tx></item>
+
+<item><hk>bfss</hk><desc>Brackets For Second Supply</desc><tx>Right on.<br><br><b>Simply specify the name/address to use and I'll send you brackets for attaching the 2nd supply (at no charge).</B><br><br><br><br>Please let me know what you can and I will give you additional assistance.<br></tx></item>
+
+<item><hk>9vna</hk><desc>9 Volt Normal Arrow</desc><tx>The 9VDC (aka NORMAL) setting is with the DIP switches pushed toward the closer chassis edge (this is the same direction the NORMAL arrow is pointing).<br></tx></item>
+
+<item><hk>pnou</hk><desc>purchased new or used</desc><tx>If it was sold/purchased as a new item, please inquire with seller about available options (ie. possibility for return or exchange as this may be easiest/quickest for you).<br><br><br>If it was not purchased as a new item, we are still glad to inspect and repair it and at no charge (you pay only the cost of shipping, both ways). </tx></item>
+
+<item><hk>12ino</hk><desc>12 in not out</desc><tx><a href="http://www.voodoolab.com/pedalpower_x4.htm">Pedal Power X4</a> has a total of 4 <b>output</b> jacks, each of which is 9VDC.<br><br>The 12VDC jack is an <b>input</b> and is used to power to the X4 itself (with its power adapter or from another power supply, such as: <a href="http://voodoolab.com/pedalpower_2.htm">Pedal Power 2 Plus</a>, <a href="http://voodoolab.com/pedalpower_iso-5.htm">Pedal Power ISO-5</a> or <a href="http://voodoolab.com/pedalpower_mondo.htm">Pedal Power MONDO</a>).<br><br></tx></item>
+
+<item><hk>wvl</hk><desc>wrong voodoo lab</desc><tx>Actually... you've got the wrong company.<br><br>You're looking to contact these folks: <a href="https://thevoodoolab.com/"><i>the</i>voodoolab.com</a> <br><br><br>P.S. We're: voodoolab.com. We make equipment for electric guitar players.<br><br><br>Cheers{!}</tx></item>
+
+<item><hk>DINtq</hk><desc>din to 1/4 inch</desc><tx>We do not make any such cable, sorry.<br><br>That said, were such a cable to be constructed, one side would need connect with the amp's DIN jack and the other side would need to break-out the pins (of the amp's DIN jack) to individual 1/4 inch TS (mono) connectors (which could be connected to the 1/4 inch Control Switcher jacks).<br></tx></item>
+
+<item><hk>gcpwafx</hk><desc>GCP with Axe FX</desc><tx>I am not so familiar with the details of programming the Axe FX but I am with familiar with the Ground Control Pro-side of the setup, and... thus, certainly I can assist.<br><br>Also, the part involving the programming of the Ground Control Pro is fairly simple.<br><br><br>Likely, I can help most easily via phone call. If you'd like, perhaps call me while you are at the gear?<br><br>707-545-0600 x110</tx></item>
+
+<item><hk>scsa</hk><desc>shorter cable styles available</desc><tx>They're not (yet) offered online but these two shorter cables styles can purchase through me directly:<br><br><br>Part{#} PPBAR-RS12, standard polarity, 12 inch cable with one side right-angled, one side straight connector,  price: $3.50ea.<br><br>Part{#} PPBAR-R6, standard polarity,  6 inch cable with both sides right-angled connectors,  price: $3.50ea.<br><br><br>If you'd like to place an order I'll need, please:<br><br>Ship to :<br>Name<br>Address<br><br>Bill to(if different than ship to) :<br>Name<br>Address<br><br>Credit Card:<br>Number<br>Expiration Date<br>Security/CVC code<br><br>Contact:<br>Phone<br><br>We accept VISA, MasterCard, Discover and American Express but at this time we do not accept PayPal.<br><br>You can provide this information by email (you may send confidential information broken into multiple emails), phone (707)545-0600 M-F 9am-5pm PST or fax (707)545-9777.<br><br>Approximate cost for shipping:<br><br>Domestic orders: $5<br>Canada orders: $9.50<br>International orders: $19<br><br><br>Please let me know what you can and I will give you additional assistance.</tx></item>
+
+<item><hk>opia</hk><desc>order processed invoice attached</desc><tx>Order processed and invoice attached (see Invoice.pdf).<br><br>Thank you{!}</tx></item>
+
+<item><hk>tafr</hk><desc>to arrange for repair</desc><tx>Sorry to know you are having trouble with your Pedal Power supply.<br><br>To discuss options and/or make arrangements for repair, please send an email to: info@voodoolab.com.<br><br>They are glad to help{!}</tx></item>
+
+<item><hk>px8pc</hk><desc>PX-8 Plus Cables</desc><tx>I don't have any specific brand recommendation, sorry. But, certainly most standard-good quality cables could work well.<br><br>However, as the jacks on the PX-8 Plus are closely spaced and the space beneath the Dingbat is compact... some large style connectors will not fit (especially large right-angled).<br><br>Thus, you will want to use/build cables with small style connectors.<br><br>Examples would include:<br><br><a href ="https://www.sweetwater.com/store/detail/GLFXKit--george-ls-effects-cable-kit-black-nkl">george-ls-effects-cable-kit</a><br><br><a href ="https://www.amazon.com/Lava-Cable-Tightrope-Solder-Free-Pedal-Board/dp/B00WR8M5MO/ref=sr_1_7?ie=UTF8&qid=1539213725&sr=8-7&keywords=pedalboard+cables&dpID=51z2GZnbDQL&preST=_SY300_QL70_&dpSrc=srch">/Lava-Cable-Tightrope</a><br><br><a href ="https://www.sweetwater.com/store/detail/EmCabKitBlk--emerson-custom-diy-pedalboard-cable-kit-12-foot-black">emerson-custom</a><br><br><a href ="https://www.sweetwater.com/store/detail/PedalCabKit--daddario-planet-waves-pw-gpkit-10-pedalboard-cable-kit">daddario-planet-waves</a><br><br>Hope this helps.<br><br><br>Thanks for the inquiry and please let me know if you would like additional assistance.</tx></item>
+
+<item><hk>px8px</hk><desc>PX8-P Xample</desc><tx>PX-8 Plus presets cannot send multiple MIDI messages (nor can the MIDI messages PX-8 Plus presets send be adjusted/changed).<br><br>However... there is a workable strategy. An example may be most instructive:<br><br>Say you want PX-8 Plus preset 1A to be a particular reverb from Strymon Big Sky and a bypass from a Timeline.<br><br>Since PX-8 Plus preset 1A send MIDI Program Change (PC) message 1, Pressing preset 1A will recall patch 1 on both Strymon pedals (assuming both are connected).<br><br>Thus, you will need to edit and store patch1 on the Big Sky to be the desired reverb and you will need to edit and store patch1 on the Timeline to be all dry or bypass enabled.<br><br>Done.<br><br><br>Now, whenever you select PX-8 Plus preset 1A, the Big Sky and Timeline recall the desired effects.<br><br>And, you would proceed similarly for each additional PX-8 Plus preset that needs to be configured/programmed.<br></tx></item>
+
+<item><hk>australiad</hk><desc>Australia Dealer</desc><tx><b>EGM Distribution</b> (Distributor)<br>Phone : {+}61 3 9817 7222<br>Fax: {+}61 3 9817 7399<br>Email: info@egm.net.au<br>Web: <a href="http://www.egm.net.au">www.egm.net.au</a><br></tx></item>
+
+<item><hk>cbfia</hk><desc>Configure Beta For IA</desc><tx>Once the Ground Control Pro beta chip has been installed:<br><br>Simply turn IA MODE on ( SETUP > UTILITY > IA MODE ON).<br><br>And, configure* the instant access button as desired (SETUP > INSTANT ACCESS).<br><br>Note, the banks (A and B) of 12 instant access buttons each will be numbered as: 1, 2, 3, 4, 5, 6, 7, 8, P1, P2, P3, P4 (1-8 corresponding to little numbers 1-8 and P1-P4 corresponding to large numbers 1-4).<br><br>Hope this helps.<br><br><br>Thanks for the inquiry and please let me know if you would like additional assistance.<br><br><br></tx></item>
+
+<item><hk>ustxf</hk><desc>use step transformer fine</desc><tx>Using a step up/down transformer with your Pedal Power Mondo will <b>not</b> interfere with its quite power output or the quality of its performance.</tx></item>
+
+<item><hk>sccbe</hk><desc>send Credit Card broken emails</desc><tx>*if you use multiple emails, please, be certain to <b>not</b> include the details from a previous email with the details being sent in the consecutive email ;)</tx></item>
+
+<item><hk>rmacpi</hk><desc>RMA credit pending inspection</desc><tx>Hi <br><br>I'm sorry there is trouble with the ***<br><br>Assuming, (pending inspection) it is in new-condition we are glad to issue issue credit for its return. Otherwise, we are glad to repair and return it to you.<br><br><br>Here are instructions on sending it to us:<br><br>1. Package the Pedal Power Digital to ensure it is well protected and cannot move around inside the box during shipment. Please include a note with your name and contact information inside of the box. It isn't necessary to include a copy of our emails.<br><br>2. Ship the Pedal Power Digital to us at the following address:<br><br>Voodoo Lab<br>RMA{#} <br>3165 Coffey Lane<br>Santa Rosa, CA 95403<br><br><br>Any questions, please let me know.<br></tx></item>
+
+<item><hk>wcxv</hk><desc>which control switcher version</desc><tx>There are two Control Switcher models:<br><br>The older v1 Control Switcher with black buttons and red LEDs.<br><br>Or,<br><br>The newer v2 Control Switcher with buttons that light red (when pressed).<br><br>Which Control Switcher model are you using?<br></tx></item>
+
+<item><hk>x4sq</hk><desc>X4 same Quality</desc><tx>Also, I'm very surprised as we have deliberately been very careful with the design and testing of X4 to be certain it meets the same high standards of quality and performance we demand from all Pedal Power supplies.</tx></item>
+
+<item><hk>cfawc</hk><desc>contact for address when complete</desc><tx>That's fine... I'll contact you as soon as the repair is complete and you can specify the return address/details at that time, thanks.<br><br>Please send whenever and at your convenience.</tx></item>
+
+<item><hk>nrtp</hk><desc>Note, refund to post</desc><tx>Note, it can sometimes take 1-2 business days for transactions/refunds to actually post to your account.<br><br>Thank you and please let me know if you would like additional assistance.</tx></item>
+
+<item><hk>x4wa</hk><desc>X4 with adapter</desc><tx>Unless you are sufficiently certain the X4 power adapter (1000mA capacity), will not be useful to you (perhaps even in the future), I recommend getting it with the power adapter included... just-in-case.</tx></item>
+
+<item><hk>x4d</hk><desc>X4 dimensions</desc><tx>Pedal Power X4 dimensions:<br><br>Width: 3 3/8"<br>Depth: 2 3/4"<br>Height: 1 1/16"<br><br>And, its 12VDC power adapter:<br>Width: 1 7/8"<br>Depth: 2 5/8"<br>Height:1"</tx></item>
+
+<item><hk>x4fpp</hk><desc>X4 from Pedal Power 2 Plus</desc><tx>To power your X4 with Pedal Power 2 Plus use the AC courtesy outlet and the X4 power adapter.<br><br>Note, as X4 requires 12V regulated power it cannot be powered from the Pedal Power 2 Plus high current 12V outputs (ie. outputs 5 and/or 6, DIP switches set away from normal) which are 12V <b>un</b>regulated power.<br><br></tx></item>
+
+<item><hk>x4wpp</hk><desc>X4 with Pedal Power 2 Plus</desc><tx><a href="http://www.voodoolab.com/pedalpower_x4.htm">Pedal Power X4</a> can be powered from the Pedal Power 2 Plus AC courtesy outlet with its power adapter but it cannot be powered sufficiently from the Pedal Power 2 Plus DC outputs.<br><br> <br><br></tx></item>
+
+<item><hk>r1518</hk><desc>Radial 15 (at) 18</desc><tx>In fact... according to Radial their 15VDC pedals can actually power with 18VDC too (and, I've recommended this many times and have never received any customer feedback to suggest otherwise).</tx></item>
+
+<item><hk>px8pwmc</hk><desc>PX8+ with MIDI Controller</desc><tx>Simply set PX-8 Plus for PC messages and it will respond to PC messages 1-128 by recalling its stored patch 1-128 correspondingly, as follows:<br><br><br><b>PX-8 Plus Presets using a MIDI Controller</b><br>Using the Loop Strip method, you can also save and recall 128 preset loop combinations. You will need a separate MIDI controller or effect pedal capable of sending MIDI program change messages. To use this feature, see SETUP: MIDI > Enable Message Types (page 8) and enable program change. This allows PX-8+ to respond to MIDI program change messages on channel 1 (default).<br><br>Follow these steps to create and save a preset loop combination:<br><br>1. Send a MIDI program change message to PX-8+.<br><br>2. Use PX-8+ buttons 1-8 to set loops on or off for your preset.<br><br>3. Press buttons 1 and 8 at the same time to save. All LEDs will flash to confirm. Sending the same MIDI program change message to PX-8+ will recall your preset.<br><br><br><i>Note, the PDF manual contains an error... saving is done by pressing buttons 1 and 6 (not 1 and 8)</i><br><br><br>Hope this helps.<br><br>Thanks for the inquiry and please let me know if you would like additional assistance.</tx></item>
+
+<item><hk>wcl</hk><desc>what country located</desc><tx>I'm glad to help and sorry you are having trouble with your ***DEVICE : ISSUE***  , and glad to help.<br><br>Are you located in the USA (if not, in what country are you located)?<br><br><br>Please let me know what you can and I will advise on how best to proceed.</tx></item>
+
+<item><hk>dbgbd</hk><desc>dingbat gig bag dimensions</desc><tx><b>Gig Bag Dimensions</b><br><br><b>Tiny:</b><br>Internal (Length x Width x Height):  <b>16</b>  x  <b>7.5</b>  x  <b>3.5</b> inches<br>External (Length x Width x Height):  <b>17.5</b>  x  <b>9</b>  x  <b>5</b> inches<br><br><b>Small:</b><br>Internal (Length x Width x Height):  <b>19.5</b>  x  <b>8.5</b>  x  <b>5</b> inches<br>External (Length x Width x Height):  <b>21</b>  x  <b>10</b>  x  <b>5.75</b> inches<br><br><b>Medium:</b><br>Internal (Length x Width x Height):  <b>23.5</b>  x  <b>14</b>  x  <b>5</b> inches<br>External (Length x Width x Height):  <b>25</b>  x  <b>15.5</b>  x  <b>7</b> inches<br><br><b>Medium PX</b> (ie. with PX-8 Plus)<b>:</b><br>Internal (Length x Width x Height):  <b>23.5</b>  x  <b>17</b>  x  <b>5</b> inches<br>External (Length x Width x Height):  <b>25</b>  x  <b>18.5</b>  x  <b>7</b> inches<br><br><b>Large:</b><br>Internal (Length x Width x Height):  <b>27.5</b>  x  <b>16.5</b>  x  <b>5</b> inches<br>External (Length x Width x Height):  <b>29</b>  x  <b>18</b>  x  <b>7</b> inches</tx></item>
+
+<item><hk>18vr</hk><desc>18 Volt Radial</desc><tx>Most (if not all) 15VDC Radial pedals can be powered at 18VDC with Pedal Power 2 Plus, setup:<br><br>To power your 15VDC Radial pedal (at 18VDC) with <a href="http://voodoolab.com/pedalpower_2.htm">Pedal Power 2 Plus</a> use outputs 5 and 6, DIP switches set normal with a <a href="http://www.voodoolab.com/shop/index.php?cPath=22_24_33">Voltage Doubler Adapter, part{#} PPAY</a>  and a <a href="http://www.voodoolab.com/shop/index.php?cPath=22_24_29&osCsid=8v4rn630f5mjo88pm8gn2i7sa2">2.1mm Reverse Polarity Barrel Cable, part{#} PPREV, PPREV-R</a>.<br><br> <br>And...<br><br>All 15VDC Radial pedals can be powered at 18VDC with with any one of <a href="http://voodoolab.com/pedalpower_4x4.htm">Pedal Power 4 x 4</a>, <a href="http://voodoolab.com/pedalpower_mondo.htm">Pedal Power MONDO</a>, <a href="http://www.voodoolab.com/pedalpower_x4.htm">Pedal Power X4</a> or <a href="http://www.voodoolab.com/pedalpower_digital.htm">Pedal Power Digital</a>, setup:<br><br>To power your 15VDC Radial pedal (at 18VDC) use two 9VDC high current capacity (400mA) outputs with a <a href="http://www.voodoolab.com/shop/index.php?cPath=22_24_33">Voltage Doubler Adapter, part{#} PPAY</a>  and a <a href="http://www.voodoolab.com/shop/index.php?cPath=22_24_29&osCsid=8v4rn630f5mjo88pm8gn2i7sa2">2.1mm Reverse Polarity Barrel Cable, part{#} PPREV, PPREV-R</a>.<br><br><br></tx></item>
+
+<item><hk>px8pcmd</hk><desc>PX8P control MIDI devices</desc><tx>As, PX-8 Plus presets 1-36 send MIDI Program Change  messages 1-36, respectively (and on MIDI channel 1), it can be used to also control MIDI controllable pedals.<br><br>Here is an example using two MIDI devices (a Big Sky and H9) :<br><br>Say you want PX-8 Plus preset 1A to be a particular reverb from the Big Sky and a bypass from the H9.<br><br>Since PX-8 Plus preset 1A sends MIDI Program Change (PC) message 1, Pressing preset 1A will recall patch 1 on both the Big Sky and H9 (assuming both are connected).<br><br>Thus, you will need to edit and store patch1 on the Big Sky to be the desired reverb and you will need to edit and store patch1 on the H9 to be all dry or bypass enabled.<br><br>Done.<br><br><br>Now, whenever you select PX-8 Plus preset 1A, the Big Sky and H9 recall the desired effects.<br><br>And, you would proceed similarly for each additional PX-8 Plus preset that needs to be configured/programmed.<br></tx></item>
+
+<item><hk>psr</hk><desc>Please signature required</desc><tx>Please: SIGNATURE REQUIRED </tx></item>
+
+<item><hk>adhl</hk><desc>as discussed here links</desc><tx>Thanks for the call.<br><br>As discussed, here are the links:<br><br><br><br>Perhaps, some of which may be useful.<br><br><br>Thanks for the inquiry and please let me know if you would like additional assistance.<br><br></tx></item>
+
+<item><hk>vsvb</hk><desc>Superfuzz - Bosstone</desc><tx>With its resonance turned all-the-way down and its tone set in-the-middle, your Superfuzz will be as close as possible to <i>"being"</i> a Bosstone.<br></tx></item>
+
+<item><hk>ttfr</hk><desc>typical turnaround for repairs</desc><tx>The typical turnaround time for repairs is 2-5 (business) days {+} shipping.</tx></item>
+
+<item><hk>franced</hk><desc>france distributor</desc><tx><b>Filling Distribution</b><br>15 Route de Clisson<br>44330 Vallet France<br>02 28 03 81 91<br><a href="http://www.fillingdistribution.com">www.fillingdistribution.com</a><br><a href="mailto:contact@fillingdistribution.com">contact@fillingdistribution.com</a></tx></item>
+
+<item><hk>tnst</hk><desc>Tech's notes specify Transformer</desc><tx>Tech's notes specify the transformer needed to be replaced.<br><br>As to the root cause... it's difficult to know for certain.<br><br>Had there been any recent changes/additions to your pedalboard prior to its failing?<br></tx></item>
+
+<item><hk>cfxn</hk><desc>Closed From X-mas New years</desc><tx>(also, we're closed for the week between Christmas and New Years)</tx></item>
+
+<item><hk>hph</hk><desc>Happy Holidays!</desc><tx>Happy Holidays{!}</tx></item>
+
+<item><hk>ptbouo</hk><desc>Pedaltrain Brackets Or Use Ours</desc><tx>Pedaltrain used to included brackets with their pedalboards. But, with their current production pedalboards, they are no longer included (they sell them separately). You will need to inquire with a Pedaltrain dealer/online retailer for purchase details.<br><br><i>Alternatively</i>, the ones we make are available here: <a href="http://www.voodoolab.com/shop/index.php?cPath=41_42">Voodoo Lab Brackets for Pedaltrain</a>.<br><br><br>Thanks for the inquiry and please let me know if you would like additional assistance.<br></tx></item>
+
+<item><hk>sdrh2</hk><desc>sorry delayed response holidays 2 </desc><tx>I'm very sorry for the delayed response (still working through a backlog of emails received while closed for the holidays).</tx></item>
+
+<item><hk>swr</hk><desc>Ship When Ready</desc><tx>Your order is being processed and will ship shortly (as soon as the custom cable is built/ready).<br></tx></item>
+
+<item><hk>sgda</hk><desc>Setup: Guitar ==> Device ==> Amp</desc><tx>Powered as such and setup: guitar ==> DEVICE ==> amp (no additional gear connected) does the trouble still occur?</tx></item>
+
+<item><hk>ssof</hk><desc>Send Supply Only (that's) Fine</desc><tx>Whatever you decide... send the supply only, that's fine or if you can include the cables, great, we'll inspect them too.</tx></item>
+
+<item><hk>liej</hk><desc>lost in email jumble</desc><tx> (lost in the jumble of my holiday emails backlog)</tx></item>
+
+<item><hk>sgec</hk><desc>Stompin-Ground Extension Cables</desc><tx>We do not offer any such cables, sorry.<br><br>But... you may be able to get them here: <a href="https://stompin-ground.com/store/custom-extension/">Extension Cables (stompin-ground.com)</a></tx></item>
+
+<item><hk>iffs</hk><desc>iffs</desc><tx><i style="color:{#}999999">intermittent/faulty footswitch performance.</i></tx></item>
+
+<item><hk>ugi</hk><desc>ugi</desc><tx><i style="color:{#}999999"></i></tx></item>
+
+
+
+<item><hk>px8pd</hk><desc>PX-8 Pluss Dimensions</desc><tx>PX-8 Plus dimensions are: <b> 21.5"  x  3"  x  2" </b> (width x depth x height)<br></tx></item>
+
+<item><hk>racksl</hk><desc>racks link</desc><tx>Here are a couple links for rack gear/dealers which might perhaps be useful:<br><br><a href="https://encorecases.com/">encorecases.com</a><br><br><a href="https://www.pelican.com/us/en/">pelican.com</a><br></tx></item>
+
+<item><hk>rcht</hk><desc>repair complete here's tracking</desc><tx>Repair of your ***DEVICE*** is complete and... it is on its way home.<br><br>Here's tracking:<br><br><br>Cheers{!}<br></tx></item>
+
+<item><hk>pp3rd</hk><desc>Pedal Power 3 release date</desc><tx>Yes{!} Pedal Power 3 is coming but unfortunately its release date is still a-ways-off/undetermined. A reasonable expectation would be in... September.  </tx></item>
+
+<item><hk>tfuf</hk><desc>Thanks For Using Forum</desc><tx>I believe you've received assistance in resolving this issue via our forum.<br><br>Thank you{!}</tx></item>
+
+<item><hk>iecpi</hk><desc>IEC pushed in</desc><tx>To be certain the supply is DOA... sometimes, a supply will not work due to its the main (IEC) power cord needing to be pushed more forcefully into the power jack. Any better?</tx></item>
+
+<item><hk>tptr</hk><desc>To power the rest</desc><tx>And, the remaining pedals can each be powered using any 9VDC output with one of the all black (standard polarity) cables supplied.<br></tx></item>
+
+<item><hk>wkos</hk><desc>what kind of screws</desc><tx>They are self tapping sheet metal screws: {#}4 x 1/4", type B (24 threads per inch).<br><br><b>Simply specify the name/address to use and I'll send you replacement screws (at no charge).</b><br><br><br><br>Please let me know what you can and I will give you additional assistance.<br></tx></item>
+
+<item><hk>aic</hk><desc>audio insert cable</desc><tx><a href="https://www.amazon.com/GLS-Audio-Y-Cable-Cable-Cords/dp/B001LUXQ4A/ref=pd_day0_hl_23_6/145-3233572-0061234?_encoding=UTF8&pd_rd_i=B001LUXQ4A&pd_rd_r=61e881b0-3a21-11e9-b2cd-cda45475316a&pd_rd_w=e8ctN&pd_rd_wg=6hAc4&pf_rd_p=ad07871c-e646-4161-82c7-5ed0d4c85b07&pf_rd_r=YSYR5MJEKEVMW7M9EEMP&psc=1&refRID=YSYR5MJEKEVMW7M9EEMP">Audio Insert Cable</a> </tx></item>
+
+<item><hk>acclr</hk><desc>AC Courtesy Outlet Left Right</desc><tx>Perhaps, one of these adapters would be useful:<br><br><a href="https://www.amazon.com/STELLAR-28-11311-OUTLET-EXTENSION-piece/dp/B011OA5KG8/ref=pd_sim_267_5?_encoding=UTF8&pd_rd_i=B011OA5KG8&pd_rd_r=0YWN83V9M82B2XKFC33T&pd_rd_w=Yfk37&pd_rd_wg=sIGVT&psc=1&refRID=0YWN83V9M82B2XKFC33T"> AC courtesy outlet Adapter (facing outlet cable extends LEFT)</a><br><br><a href="https://www.amazon.com/P-A000146N-Extension-Cord-Flat-Rotating/dp/B00UKKBAE0/ref=sr_1_18?ie=UTF8&qid=1521754215&sr=8-18&keywords=flatPlugRotatingExtensionCord">AC courtesy outlet Adapter (rotatable direction)</a> <br><br><a href="https://www.pchcables.com/16ousapoadwi.html">AC courtesy outlet Adapter (facing outlet cable extends RIGHT)</a><br><br>Hope this helps.</tx></item>
+
+<item><hk>cxmta</hk><desc>Control Switcher Mount To Amp</desc><tx>In fact, Control Switcher is typically mounted somewhere to the amp itself (Velcro'd in the cab, etc) and the custom Control Switcher cable is a sufficient length.<br><br>Also as such, instead of needing a special length custom cable... you can simply use a standard MIDI cable of whatever length is needed (to connect your MIDI controller with Control Switcher).</tx></item>
+
+<item><hk>sso</hk><desc>Send Supply Only</desc><tx>No problem. Simply send the supply itself, without the cables... that's fine.<br><br>Cheers{!}</tx></item>
+
+<item><hk>s1899</hk><desc>Split 18 for 9 9 </desc><tx>No, but... you could split a 9V output to create two 9V outputs.<br><br>To do this, you might consider using our <a href="http://www.voodoolab.com/shop/index.php?cPath=22_24_33">Output Splitter Adapter, part{#} PPAV</a>.<br><br>The Output Splitter Adapter connects with an individual Pedal Power DC output jack, converting it into 2 output jacks (each with the same voltage as the output to which the splitter itself is connected). Two effect pedals can then be attached (using two cables) to the output splitter adapter and powered from this single Pedal Power DC output.<br><br>And with additional outputs, you may also need additional: <a href="http://www.voodoolab.com/shop/index.php?cPath=22_24_28">2.1mm Standard Polarity Barrel Cables</a>  (if you've used all that were included with your power supply).<br><br>Also, our full selection of cables and adapters is available here: <a href="http://www.voodoolab.com/shop/index.php?cPath=22">Power Cables and Adapters</a><br><br><br>Thank you and please let me know if I may be of any further assistance.<br></tx></item>
+
+<item><hk>3rdpr</hk><desc>3rd Party Repair</desc><tx>For warranty repair at no charge, please have the owner contact us directly and we will make arrangements with them (and this is our preference), thank you.<br><br>Otherwise, the repair must be non-warranty, cost is $35 labor + parts (likely less than $10) + shipping.<br><br><br>Please let me know what you can and I will give you additional assistance. </tx></item>
+
+<item><hk>jwts</hk><desc>Just waiting to ship</desc><tx>Repair of your **DEVICE**  is complete.<br><br>It is being processed to ship for return to you and will be on its way, asap.<br><br><br>Cheers{!}<br></tx></item>
+
+<item><hk>rdrl</hk><desc>Rig Designer Recommendations Links</desc><tx>I'm glad to answer specific questions (or if you send me a diagram I may be able to point to potential problems).<br><br><br>As for rig designers, perhaps a local music store can help with recommendations or maybe one of these links will be helpful:<br><br><a href="http://www.evidenceaudio.com/dealers/rig-builders ">evidenceaudio.com</a><br><br> <a href="https://www.nicerackcanada.com/">nicerackcanada.com</a><br><br><a href="https://www.xacttone.com/info/photo-gallery/ ">xacttone.com</a><br><br><br><br>Hope this helps and please let me know if you would like additional assistance.</tx></item>
+
+<item><hk>wdtf</hk><desc>Why Did Transformer Fail?</desc><tx>It's a somewhat fancy/custom transformer and this certainly may have simply been a rare isolated component failure, nothing caused by any issue with your setup.<br><br>That said... if you care to send me a list of what's being powered from the DC outputs, I'm glad to review it for any potential "red flags".<br><br><br>Please let me know what you can and I will give you additional assistance.<br></tx></item>
+
+<item><hk>itony</hk><desc>Include Tony</desc><tx>I've included Tony (VP Global Sales & Marketing) in this email, he can assist with details and processing.<br></tx></item>
+
+<item><hk>dsan</hk><desc>DIP switch set away from normal</desc><tx>DIP switch set <i>away</i> from normal</tx></item>
+
+<item><hk>vlosm</hk><desc>VL Overdrive Sullivan MOD</desc><tx>In regards to Overdrive: Sullivan MOD, incorrect parts, etc...<br><br>To determine whether or not your Overdrive is "normal", you can inspect the PCB for the values written on capacitors: c3 and c6.<br><br>The correct values are: c3 = <b>221</b>, c6 = <b>221</b> <br><br><i>Any</i> other values are incorrect, including: c3=222, c6=222.<br></tx></item>
+
+<item><hk>ebtechhe</hk><desc>ebtech Hum Eliminator</desc><tx>Typically, the noise commonly encountered in a multi-amp setup does not have the power supply (for the effect pedals, etc) as a root cause. Instead, it is the result of the signals feeding/connecting the amps not being isolated.<br><br>In such cases, using an audio isolation transformer product such as the <a href="http://www.morleypedals.com/hum-eliminators/">Ebtech Hum Eliminator</a> is generally a great solution, and what I recommend.<br><br>Hope this helps.<br><br><br>Thanks for the inquiry and please let me know if you would like additional assistance.<br></tx></item>
+
+<item><hk>rmaanw</hk><desc>RMA Australia Non-Warranty</desc><tx>Unfortunately, warranty repair of a USA model supply is not available in Australia.<br><br>We are glad to inspect and repair your Pedal Power 2 Plus but you would need to pay the cost of shipping, <i>both ways</i).<br><br>As this may not be feasible due to the shipping expense, I could instead simply send you the necessary 120VAC replacement transformer, price: <i>USD $18.00 + shipping</i>. And, you would need to fine a local technician to do the repair*.<br><br>*Note, our Australia distributor (<b>EGM</b>) will not have parts for repairing a USA model supply but once you have the replacement 120VAC transformer, you could inquire with them about a non-warranty repair. Here is there contact info:<br><br><b>EGM Distribution</b><br>Phone : +61 3 9817 7222<br>Fax: +61 3 9817 7399<br>Email: info@egm.net.au<br>Web: www.egm.net.au<br><br><br>Please let me know what you can and I will give you additional assistance.</tx></item>
+
+<item><hk>oiw</hk><desc>on its way</desc><tx>on its way.</tx></item>
+
+<item><hk>otw</hk><desc>on their way</desc><tx>on their way.</tx></item>
+
+<item><hk>pp3u</hk><desc>PP3 update</desc><tx>We are hopeful that Pedal Power <b>3</b> and <b>3 Plus</b> will be available sometime September 2019.<br><br>Sorry, it won't be sooner.<br><br>And, thank you{!}</tx></item>
+
+<item><hk>gcxm</hk><desc>GCX Manual</desc><tx><a href="http://voodoolab.com/manuals/gcx_manual.pdf">GCX Manual</a></tx></item>
+
+<item><hk>rles</hk><desc>Return label Emailed Shortly</desc><tx>Return label (to be emailed shortly to:  ), reference <b>RMA{#} </b><br><br></tx></item>
+
+<item><hk>zrr</hk><desc>Repair Restock</desc><tx>Repair/Restock:</tx></item>
+
+<item><hk>rlmfs</hk><desc>Return Label Musical Fulfilment Services</desc><tx>Greetings Earthlings,<br><br><br>Return Label requested:<br><br>RMA{#} *****<br><br>Product: PP<br><br>Name: Rick<br><br>Phone: 201.416.4101 x302<br><br>Email:  rvanharken@musicalfs.com<br><br>Physical address:<br><br>MUSICAL FULFILLMENT SERVICES   <br>8 THORNTON RD   <br>OAKLAND NJ 07436<br><br><br>Thanks{!}</tx></item>
+

@@ -9,7 +9,8 @@
 	"author": "Satya Choudhury",
 	"license": "MIT",
 	"devDependencies": {
-		"electron": "~>1.8.2-beta5"
+		"electron": "~>1.8.2-beta5",
+		"electron-reload": "^1.4.0"
 	},
 	"dependencies": {
 		"jquery": "^3.2.1"

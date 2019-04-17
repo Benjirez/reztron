@@ -1,13 +1,10 @@
-const electron = require('electron')
-
-// Module to control application life.
-const app = electron.app
-
-// Module to create native browser window.
-const BrowserWindow = electron.BrowserWindow
+const {app, BrowserWindow, globalShortcut} = require('electron')
 
 const path = require('path')
 const url = require('url')
+
+// require('electron-reload')(__dirname);
+require('electron-reload')(__dirname, { electron: require(`${__dirname}/node_modules/electron`) })
 
 // Keep a global reference of the window object, if you don't, the window will
 // be closed automatically when the JavaScript object is garbage collected.
@@ -16,7 +13,7 @@ let mainWindow
 function createWindow () {
   // Create the browser window.
   //mainWindow = new BrowserWindow({width: 449, height: 848, frame: false, x: -449, y: 148})
-  mainWindow = new BrowserWindow({width: 449, height: 1020, frame: false, x: -449, y: 1})
+  mainWindow = new BrowserWindow({width: 449, height: 1020, frame: false, x: -449, y: 1, icon: "./icon.png"})
 
   // and load the index.html of the app.
   mainWindow.loadURL(url.format({
@@ -24,7 +21,15 @@ function createWindow () {
     protocol: 'file:',
     slashes: true
   }))
-
+  //-----------------------------------------------------------------------------------------
+  
+    globalShortcut.register('Alt+,', ()=>{ console.log('yup'); mainWindow.focus(); })
+  
+	let contents = mainWindow.webContents;
+	//console.log(contents);
+	contents.focus()
+  
+  //-----------------------------------------------------------------------------------------
   // Open the DevTools.
   //mainWindow.webContents.openDevTools()
 
