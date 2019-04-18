@@ -108,6 +108,7 @@
 		padding-top: 0px;
 		margin-top: 0px;
 		outline: none;
+		white-space: pre;
 		//box-shadow: 1px 1px 2px #333
 		//display: inline-block
 		//float: left;
@@ -574,6 +575,34 @@ the element with your mouse, the title attribute is displayed in a little box ne
 <script>window.$ = window.jQuery = require('jquery');</script>
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
 <script>
+
+// allows use of tabs in contentsEditable div
+// adapted from http://stackoverflow.com/a/25943182/460084
+function insertTab() {
+  if (!window.getSelection) return;
+  const sel = window.getSelection();
+  if (!sel.rangeCount) return;
+  const range = sel.getRangeAt(0);
+  range.collapse(true);
+  const span = document.createElement('span');
+  span.appendChild(document.createTextNode('\t'));
+  span.style.whiteSpace = 'pre';
+  range.insertNode(span);
+  // Move the caret immediately after the inserted span
+  range.setStartAfter(span);
+  range.collapse(true);
+  sel.removeAllRanges();
+  sel.addRange(range);
+}
+
+$(document).on('keydown', '#rezText', function(e) {
+  if (e.keyCode == 9) {
+    insertTab();
+    e.preventDefault()
+  }
+});
+
+
 
 $("#rezAuto1").focus();
 
